@@ -1,4 +1,4 @@
-# EconomySimulation™ V.1.0.0-release
+# EconomySimulation™ V.1.1.0
 ### Download EconomySimulation
 The file in the repository called "economysimulation.exe" is the relevant document. Download this to start using the software.
 ### Copyright © 2025 AllGameWizard - CC BY-NC 4.0
